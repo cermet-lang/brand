@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "Cermet",
+  "colors": {
+    "ink": "#1C2431",
+    "ceramic-100": "#FCFBF8",
+    "ceramic-200": "#F7F5F1",
+    "ceramic-300": "#EFEBE4",
+    "ceramic-400": "#E4E0D8",
+    "metal-400": "#909BAA",
+    "metal-500": "#87919F",
+    "metal-dark-400": "#8B96A5",
+    "metal-dark-500": "#7C8798",
+    "ink-700": "#242D3D",
+    "ink-800": "#1F2836",
+    "ink-900": "#151C26",
+    "paper": "#F7F5F1"
+  },
+  "typography": {
+    "wordmark": {
+      "family": "Poppins",
+      "weight": 600,
+      "letterSpacing": "-0.024em",
+      "fallback": ["Century Gothic", "Futura", "Verdana", "sans-serif"]
+    }
+  }
+}

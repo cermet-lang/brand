@@ -1,0 +1,20 @@
+/* Cermet brand colors. Values match colors.json and the logo SVG files. */
+:root {
+  --cermet-ink: #1C2431;
+  --cermet-ceramic-100: #FCFBF8;
+  --cermet-ceramic-200: #F7F5F1;
+  --cermet-ceramic-300: #EFEBE4;
+  --cermet-ceramic-400: #E4E0D8;
+  --cermet-metal-400: #909BAA;
+  --cermet-metal-500: #87919F;
+  --cermet-metal-dark-400: #8B96A5;
+  --cermet-metal-dark-500: #7C8798;
+  --cermet-ink-700: #242D3D;
+  --cermet-ink-800: #1F2836;
+  --cermet-ink-900: #151C26;
+  --cermet-paper: #F7F5F1;
+
+  --cermet-wordmark-font: "Poppins", "Century Gothic", Futura, Verdana, sans-serif;
+  --cermet-wordmark-weight: 600;
+  --cermet-wordmark-letter-spacing: -0.024em;
+}
